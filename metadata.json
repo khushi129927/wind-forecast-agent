@@ -1,0 +1,6 @@
+{
+  "name": "Wind Energy Forecast & Anomaly Detection Agent",
+  "description": "An end-to-end wind forecasting and reliability analysis system with Open-Meteo API integration, SQLite storage, baseline forecasting, Z-score anomaly detection, an autonomous Gemini agent with multi-step tool-calling, and automated report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
